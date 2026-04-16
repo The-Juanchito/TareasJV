@@ -1,5 +1,4 @@
 public class EJ5_anioNacimiento {
-    
 public class Persona { 
     int edad; 
     int anioActual; 
