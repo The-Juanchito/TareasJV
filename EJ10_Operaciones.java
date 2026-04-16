@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class EJ10_Operaciones {
 
     public static void main(String[] args) {
