@@ -1,5 +1,4 @@
 public class EJ7_Facturacion {
-     
     public static class Factura { 
         double precioUnitario; 
         int    cantidad; 
