@@ -1,5 +1,4 @@
  public class EJ6_Tienda {    
-
  public class Factura {
         double precio;
         int cantidad;
@@ -17,6 +16,5 @@
         EJ6_Tienda tienda = new EJ6_Tienda();
         Factura factura = tienda.new Factura(10.0, 5);
         factura.calcularTotal();
-
 }
     }
