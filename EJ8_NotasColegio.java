@@ -1,5 +1,4 @@
 public class EJ8_NotasColegio {
-    
     public class Estudiante {
         double nota1;
         double nota2;
